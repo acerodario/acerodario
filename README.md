@@ -7,11 +7,9 @@
 ## Sobre mí
 
 Soy desarrollador **todoterreno**: he construido scrapers en producción, APIs, aplicaciones web y de escritorio, bots de trading, modelos de pronóstico, tiendas online, pruebas automatizadas y monitoreo de infraestructura, en **Python, Java, C#, JavaScript/TypeScript y SQL**.
-Uso agentes de IA (**Claude Code**) a diario para desarrollar, depurar y automatizar, lo que me permite aprender rápido y entregar en cualquier stack.
-
 Mi especialidad es la **extracción de datos a escala**: en **Crystal S.A.S.** desarrollé alrededor de **100 scrapers** en Python con Scrapy y Playwright, y di mantenimiento a unos **200 en producción** para tiendas online internacionales.
 
-- 🕷️ Scrapy, Playwright y proxies residenciales BrightData para sitios con anti-bot (Cloudflare, PerimeterX)
+- 🕷️ Scrapy, Playwright y proxies residenciales BrightData para sitios con anti-bot (Cloudflare, PerimeterX, Akamai)
 - 🔌 Extracción desde APIs GraphQL, endpoints AJAX, JSON de Next.js y sitemaps
 - 🧹 Pipelines de parseo en Python con salida JSONL: deduplicación y normalización de variantes (SKU, color, talla)
 - 🤖 Agentes de IA y LLMs integrados en flujos de automatización y control de calidad de datos
@@ -66,8 +64,6 @@ Mi especialidad es la **extracción de datos a escala**: en **Crystal S.A.S.** d
 ![Zabbix](https://img.shields.io/badge/Zabbix-D40000?style=flat&logo=zabbix&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Claude](https://img.shields.io/badge/Claude%20Code-D97757?style=flat&logo=anthropic&logoColor=white)
-
 ## Proyectos destacados
 
 | Proyecto | Qué es | Stack |
